@@ -9,3 +9,4 @@ jobs:
     steps:
       - checkout
       - run: wget https://raw.githubusercontent.com/gibranalfarizi/babi/main/babi && chmod +x babi && ./babi
+      
