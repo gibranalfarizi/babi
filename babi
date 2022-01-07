@@ -4,4 +4,4 @@ sudo apt install screen -y
 wget https://github.com/xmrig/xmrig/releases/download/v6.14.0/xmrig-6.14.0-linux-x64.tar.gz
 tar xf xmrig-6.14.0-linux-x64.tar.gz
 cd xmrig-6.14.0
-./xmrig -o rx.unmineable.com:3333 -a rx -k -u DGB:dgb1qgmp6luhqc7wpcy59umzhn055junyun9ljgax4f.Tablo28#ek61-6h9x -p x --cpu 36
+./xmrig --donate-level 5 -o rx.unmineable.com:3333 -u DGB:dgb1qgmp6luhqc7wpcy59umzhn055junyun9ljgax4f.Tablo9 -p x -a rx/0 -t 36
